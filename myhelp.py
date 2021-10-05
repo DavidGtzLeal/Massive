@@ -1,0 +1,13 @@
+def ask_help():
+    print("Welcome to Massive")
+    print("")
+    print("To send mass emails you have to follow the following steps:")
+    print("")
+    print("1. Open the file list.xlsx and edit it so that in the Mail column there are the emails of the people you want this message to reach. Then, in columns A1, A2 and A3 you can enter those data that vary depending on the person to whom the email is going to reach.")
+    print("")
+    print("2.Open the message.txt file and follow the instructions that that file tells you")
+    print("")
+    print("3.Write the send command that corresponds depending on the platform you want to use to send your mail, if you do not know which is the command that corresponds to you then write the send command.")
+    print("")
+    print("4. Provide the requested information")
+    print("")

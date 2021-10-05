@@ -1,0 +1,5 @@
+Introduce your text here:
+
+{1} corresponds to A1 in your list.xlsx file
+{2} corresponds to A2 in your list.xlsx file
+{3} corresponds to A3 in your list.xlsx file
